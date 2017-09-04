@@ -1,5 +1,5 @@
 # DBScripts
-Database Scripts：收集日常工作中常用的数据库脚本及数据库技术文档。
+项目全称Database Scripts，项目的目的收集DBA日常工作中常用的数据库脚本和实现方案。
 
 
 # 目录
